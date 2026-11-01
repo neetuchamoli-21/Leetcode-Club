@@ -38,43 +38,27 @@ Constraints:
    */
 #include <bits/stdc++.h>
 using namespace std;
-  
-  
-  #include <iostream>
-  using namespace std;
-  
-  int main() {
-      // Code here
-  
-      return 0;
-  }  
-    int main (){ {
-        int x;
-        cin >> x;
-        if (x<0){
-            cout << "false";
-            return 0;
-        }
-        int temp=x;
-        long long rev=0;
-        
-
-        while(x>0){
-            int rem= x % 10;
-            rev=rev*10+rem;
-            x = x /10 ;
-
-        }
-
-        if(rev==temp){
-            cout << "true" ;
-
-        }
-        else{
-            cout << "false";
-        }
-        
-    }
+int main (){ 
+  int x;
+  cin >> x;
+  if (x<0){
+    cout << "false";
+    return 0;
+  }
+  int temp=x;
+  long long rev=0;
+  while(x>0){
+    int rem= x % 10;
+    rev=rev*10+rem;
+    x = x /10 ;
+  }
+  if(rev==temp){
+    cout << "true" ;
+  }
+  else{
+    cout << "false";
+  }
+}
 
         
     
