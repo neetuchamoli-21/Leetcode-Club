@@ -1,1 +1,0 @@
- cout << "The missing number is: " << result << endl;
