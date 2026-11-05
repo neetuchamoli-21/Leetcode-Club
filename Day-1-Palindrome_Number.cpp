@@ -1,5 +1,5 @@
 /*
-   * DATE: 31/10/2026
+   * DATE: 30/10/2026
    *
    * PROBLEM LINK:https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=math
    * PROBLEM STATEMENT: Palindrome Number
