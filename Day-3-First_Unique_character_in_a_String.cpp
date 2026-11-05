@@ -1,5 +1,5 @@
 /*
- * DATE: 03/11/2026
+ * DATE: 01/11/2026
  *
  * PROBLEM LINK: https://leetcode.com/problems/first-unique-character-in-a-string?envType=problem-list-v2&envId=prshgx6i
  * PROBLEM STATEMENT: First Unique Character in a String
