@@ -30,6 +30,6 @@ int main() {
     int n;
     cin >> n;
     cout << sumOfMultiples(n) << endl;
-
+    
     return 0;
 }
