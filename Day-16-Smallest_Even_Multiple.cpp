@@ -11,7 +11,7 @@
  * ----------------------------------------
  */
 
-#include <bits>
+#include <bits/stdc++.h>
 using namespace std;
 int smallestEvenMultiple(int n) {
     if(n % 2 == 0) {
