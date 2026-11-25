@@ -1,8 +1,8 @@
 /*
  * DATE: 18/11/2026
  *
- * PROBLEM LINK: 
- * PROBLEM STATEMENT: 
+ * PROBLEM LINK: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+ * PROBLEM STATEMENT: Divisible and Non-divisible Sums Difference
 You are given positive integers n and m.
 Define two integers as follows:
 num1: The sum of all integers in the range [1, n] (both inclusive) that are not divisible by m.
